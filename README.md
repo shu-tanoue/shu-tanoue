@@ -3,7 +3,7 @@ Frontend engineer based in Vancouver. 👋
 
 Specialize in React.js 
 
-Languages: JavaScript, HTML5, CSS3, Sass 💻
+Languages: JavaScript, HTML5, CSS3, Sass 
 <!--
 **shu-tanoue/shu-tanoue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
