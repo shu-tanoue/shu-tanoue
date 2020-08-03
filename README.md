@@ -1,4 +1,4 @@
-### Hi there I am Shu 👋
+### Hi there I am Shu Frontend engineer based in Vancouver. 👋
 
 <!--
 **shu-tanoue/shu-tanoue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
