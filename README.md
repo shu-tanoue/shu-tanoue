@@ -1,5 +1,6 @@
 ### Hi there I am Shu
-Frontend engineer based in Vancouver. 👋
+Frontend engineer based in Vancouver👋  
+[My portfolio website](https://shutanoue.com/)🔥
 
 Specialize in React.js 
 
