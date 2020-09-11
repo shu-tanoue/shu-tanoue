@@ -8,7 +8,7 @@ Frontend developer based in Vancouver👋
 - CSS3
 - Sass
 - jQuery
-
+- React
 
 #### Works 💻
 - [West Vancouver Cricket Club company website](https://github.com/shu-tanoue/westvan-cricket-club)
