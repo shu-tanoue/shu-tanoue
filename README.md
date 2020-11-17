@@ -1,6 +1,6 @@
 ### Hi there I am Shu!
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shu-tanoue&label=Profile%20views&color=0e75b6&style=flat" alt="shu-tanoue" /> </p>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
+
 Frontend developer based in Vancouver👋  
 [My portfolio website](https://shutanoue.com/)🔥
 
