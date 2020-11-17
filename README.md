@@ -1,5 +1,5 @@
 <h1 align="center">Hi there ✌️, I'm Shu Tanoue!</h1>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=shu-tanoue&label=Profile%20views&color=0e75b6&style=flat" alt="shu-tanoue" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=shu-tanoue&label=Profile%20views&color=0e75b6&style=flat" alt="shu-tanoue" /> </p>
 
 Frontend developer based in Vancouver👋  
 [My portfolio website](https://shutanoue.com/)🔥
