@@ -22,7 +22,7 @@ Frontend developer based in Vancouver👋
 - [West Vancouver Cricket Club company website](https://github.com/shu-tanoue/westvan-cricket-club)
 - [Pro Caliber Lacrosse Club company website](https://github.com/shu-tanoue/pro-caliber-lacrosse)
 - [Vancouver Washroom Map](https://github.com/shu-tanoue/Vancouver-Washroom-Map)
-- [Gatsby Blog Shu](https://github.com/shu-tanoue/gatsby-blog-shu)
+
 
 <!--
 **shu-tanoue/shu-tanoue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
