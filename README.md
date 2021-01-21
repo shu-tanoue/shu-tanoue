@@ -17,7 +17,6 @@ Frontend developer based in Vancouver👋
 
 
 
-
 #### Works 💻
 - [West Vancouver Cricket Club company website](https://github.com/shu-tanoue/westvan-cricket-club)
 - [Pro Caliber Lacrosse Club company website](https://github.com/shu-tanoue/pro-caliber-lacrosse)
