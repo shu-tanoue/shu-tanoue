@@ -9,7 +9,6 @@ Frontend developer based in Vancouver👋
 - HTML5 
 - CSS3 
 - Sass 
-- jQuery 
 - React
 
 
