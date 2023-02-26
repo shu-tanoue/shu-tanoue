@@ -10,6 +10,9 @@ Frontend developer based in Vancouver👋
 - CSS3 
 - Sass 
 - React
+- Node
+- Next
+- My SQL
 
 
 <h3 align="left">Languages and Tools:</h3>
