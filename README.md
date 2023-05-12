@@ -14,7 +14,7 @@ Frontend developer based in Vancouver👋
 - Next
 - My SQL
 - Typescript
-- tailwindcss
+- Tailwind CSS
 
 
 <h3 align="left">Languages and Tools:</h3>
