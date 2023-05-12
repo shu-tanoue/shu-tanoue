@@ -13,6 +13,8 @@ Frontend developer based in Vancouver👋
 - Node
 - Next
 - My SQL
+- Typescript
+- tailwindcss
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -21,6 +23,8 @@ Frontend developer based in Vancouver👋
 
 
 #### Works 💻
+- [Next-Typescript-NotionAPI](https://github.com/shu-tanoue/Next-Typescript-NotionAPI)
 - [West Vancouver Cricket Club company website](https://github.com/shu-tanoue/westvan-cricket-club)
 - [Pro Caliber Lacrosse Club company website](https://github.com/shu-tanoue/pro-caliber-lacrosse)
 - [Vancouver Washroom Map](https://github.com/shu-tanoue/Vancouver-Washroom-Map)
+
